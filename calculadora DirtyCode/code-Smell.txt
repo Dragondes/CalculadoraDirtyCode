@@ -1,0 +1,5 @@
+Resuelto por Andrew Torrez P
+1 code smell = todo en el metodo principal : resuelto en lineas 1,8,12,16,19
+2 code smell = nombres de variables no descriptivos : linea 8,10,11 resuelto en lineas 28,29
+3 code smell = codigo duplicado : lineas 8,14,17,20,23
+4 code smell = codigo no comentado 
